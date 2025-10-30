@@ -1,6 +1,6 @@
 {
   "project_root": ".",
-  "modules": "CC.Comput.Bi.-MOr1",
+  "modules": "CC.Comput.Bi.$MOr1",
   "entry_points": "",
   "priority": "",
   "repo_urls": "https://github.com/Conscience-Constellator/Comput.Bi.-MOr1",
